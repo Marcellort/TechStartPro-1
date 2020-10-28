@@ -133,5 +133,5 @@ class Crud:
 #user=Crud.Del('Geladeir')
 #user=Crud.SelectName('Geladeiras')
 #user=Crud.SelectDesc('Gela')
-user=Crud.SelectValue(3000)
+#user=Crud.SelectValue(3000)
 #user=Crud.SelectCat('mov')
